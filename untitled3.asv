@@ -1,0 +1,13 @@
+fid = fopen('mätning1.lst', 'r');
+data = textscan(fid, '%f %f', 200, 'HeaderLines', 10);
+fclose(fid);
+
+fid = fopen('bakgrund.lst', 'r')
+background_data = textscan(fid, '%f %f', 200, 'HeaderLines', 10)
+
+X = data{1};  
+Y = data{2};  
+
+plot(X, Y)
+xlabel('X')
+ylabel('Y')

@@ -1,0 +1,60 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[swedish]{babel}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{amsmath,graphicx}
+\usepackage[hidelinks]{hyperref}
+
+\title{Halveringstid för silverisotoper}
+\author{[Namn]}
+\date{[Datum]}
+
+\begin{document}
+\maketitle
+
+\section*{Syfte och metod}
+\[
+Y(t)=A e^{-\lambda t},
+\qquad T_{1/2}=\frac{\ln 2}{\lambda}.
+\]
+
+\section*{Resultat}
+\begin{figure}[ht]
+    \centering
+    \IfFileExists{graf.pdf}{
+        \includegraphics[width=0.9\linewidth]{graf.pdf}
+    }{
+        \fbox{Lägg in graf.pdf här}
+    }
+    \caption{Bakgrundskorrigerade pulstal med felstaplar
+    och de uppskattade sönderfallskomponenterna.
+    X-axeln visar tid i sekunder.}
+\end{figure}
+
+\begin{center}
+\begin{tabular}{lcc}
+\hline
+Isotop & Uppmätt halveringstid (s) & Tabellvärde (s) \\
+\hline
+$^{108}$Ag & $\ldots \pm \ldots$ & $142{,}9 \pm 0{,}7$ \\
+$^{110}$Ag & $\ldots \pm \ldots$ & $24{,}56 \pm 0{,}11$ \\
+\hline
+\end{tabular}
+\end{center}
+
+Tabellvärdena kommer från NNDC \cite{nndc}.
+De egna osäkerheterna avser [ange typ av fel eller intervall].
+
+\section*{Diskussion och slutsats}
+[Jämför resultaten med tabellvärdena med hänsyn till
+osäkerheterna. Beskriv den viktigaste felkällan och
+sammanfatta vad mätningen visar.]
+
+\begin{thebibliography}{1}
+\bibitem{nndc}
+NNDC, \textit{NuDat 3}.
+\url{https://www.nndc.bnl.gov/nudat3/}
+\end{thebibliography}
+
+\end{document}
