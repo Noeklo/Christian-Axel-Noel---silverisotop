@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1790605331.71147 "Half_life_of_Silve.tex" "Half_life_of_Silve.pdf" "Half_life_of_Silve" 1790605332.28604 0
+["lualatex"] 1790608050.26769 "Half_life_of_Silve.tex" "Half_life_of_Silve.pdf" "Half_life_of_Silve" 1790608050.91485 2
   "/Users/noeleklof/Library/texlive/2026basic/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-regular.luc" 1774346430.0144 127332 ecc3207f80f96778d171df622df463f9 ""
   "/Users/noeleklof/Library/texlive/2026basic/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1774346429.98256 101986 e45cd881ff158d52e7185eeab0923f78 ""
   "/usr/local/texlive/2026basic/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -147,9 +147,9 @@
   "/usr/local/texlive/2026basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1774343067 79187 e3f5941707347d15c1721f52279213a2 ""
   "/usr/local/texlive/2026basic/texmf-var/tex/generic/config/language.dat" 1772405583 3773 08a169064ede2f014617db571a0f508e ""
   "/usr/local/texlive/2026basic/texmf-var/web2c/luahbtex/lualatex.fmt" 1774343037 5655380 94af8a0e445f1b7eed00aab624c91f51 ""
-  "Half_life_of_Silve.aux" 1790605332.20868 564 affcff13058c7080c22304e1adba6229 "lualatex"
-  "Half_life_of_Silve.out" 1790605332.1864 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
-  "Half_life_of_Silve.tex" 1790605326.3293 1908 32d820a42f93cbd53fb4bdab772609a1 ""
+  "Half_life_of_Silve.aux" 1790608050.807 334 5fc66b2f6e836364c2de305764b60ec4 "lualatex"
+  "Half_life_of_Silve.out" 1790608050.77105 0 d41d8cd98f00b204e9800998ecf8427e "lualatex"
+  "Half_life_of_Silve.tex" 1790608047.92953 2521 750cfc735279afa4816c98afd7655f43 ""
   (generated)
   "Half_life_of_Silve.aux"
   "Half_life_of_Silve.log"

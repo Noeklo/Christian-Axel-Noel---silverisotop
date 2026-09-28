@@ -36,7 +36,7 @@ T_lang = -log(2)/k;
 % Långlivades bidrag vid varje ursprunglig mätpunkt
 Y_lang = exp(k*X + b);
 
-% Dra bort det från de bakgrundskorrigerade värdena
+% Dra bort det från de b0akgrundskorrigerade värdena
 Y_kort = Y - Y_lang;
 
 % Visa den kortlivade komponenten i ett nytt diagram
