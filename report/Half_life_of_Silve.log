@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.3.24)  28 SEP 2026 17:07
+This is LuaHBTeX, Version 1.24.0 (TeX Live 2026)  (format=lualatex 2026.3.24)  28 SEP 2026 17:34
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Half_life_of_Silve.tex
@@ -438,116 +438,41 @@ A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-
-./Half_life_of_Silve.tex:38: LaTeX Error: Not in outer par mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.38 \begin{figure}[ht]
-                       
-You've lost some text.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-./Half_life_of_Silve.tex:38: Undefined control sequence.
-\@xfloat ...@fltovf \fi \global \setbox \@currbox 
-                                                  \color@vbox \normalcolor \...
-l.38 \begin{figure}[ht]
-                       
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./Half_life_of_Silve.tex:38: Missing number, treated as zero.
-<to be read again> 
-                   \vbox 
-l.38 \begin{figure}[ht]
-                       
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-
-./Half_life_of_Silve.tex:49: LaTeX Error: Not in outer par mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.49 \begin{figure}[ht]
-                       
-You've lost some text.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-./Half_life_of_Silve.tex:49: Undefined control sequence.
-\@xfloat ...@fltovf \fi \global \setbox \@currbox 
-                                                  \color@vbox \normalcolor \...
-l.49 \begin{figure}[ht]
-                       
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./Half_life_of_Silve.tex:49: Missing number, treated as zero.
-<to be read again> 
-                   \vbox 
-l.49 \begin{figure}[ht]
-                       
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-
-./Half_life_of_Silve.tex:60: LaTeX Error: Not in outer par mode.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.60 \begin{figure}[ht]
-                       
-You've lost some text.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-./Half_life_of_Silve.tex:60: Undefined control sequence.
-\@xfloat ...@fltovf \fi \global \setbox \@currbox 
-                                                  \color@vbox \normalcolor \...
-l.60 \begin{figure}[ht]
-                       
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./Half_life_of_Silve.tex:60: Missing number, treated as zero.
-<to be read again> 
-                   \vbox 
-l.60 \begin{figure}[ht]
-                       
-A number should have been here; I inserted `0'.
-(If you can't figure out why I needed to see a number,
-look up `weird error' in the index to The TeXbook.)
-
-./Half_life_of_Silve.tex:71: Missing $ inserted.
+<long_max.png, id=4, 559.8516pt x 371.4678pt>
+File: long_max.png Graphic file (type png)
+<use long_max.png>
+Package luatex.def Info: long_max.png  used on input line 29.
+(luatex.def)             Requested size: 409.71692pt x 271.84941pt.
+./Half_life_of_Silve.tex:34: Missing $ inserted.
 <inserted text> 
                 $
-l.71 
+l.34 
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 94.
-(/usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/t1lmtt.fd
-File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) [1
+<long_min.png, id=5, 559.8516pt x 371.4678pt>
+File: long_min.png Graphic file (type png)
+<use long_min.png>
+Package luatex.def Info: long_min.png  used on input line 37.
+(luatex.def)             Requested size: 409.71692pt x 271.84941pt.
+<short_max.png, id=6, 555.2745pt x 365.4453pt>
+File: short_max.png Graphic file (type png)
+<use short_max.png>
+Package luatex.def Info: short_max.png  used on input line 45.
+(luatex.def)             Requested size: 409.71692pt x 269.65576pt.
+<short_min.png, id=7, 553.1064pt x 366.6498pt>
+File: short_min.png Graphic file (type png)
+<use short_min.png>
+Package luatex.def Info: short_min.png  used on input line 53.
+(luatex.def)             Requested size: 409.71692pt x 271.60191pt.
+[1
 
-{/usr/local/texlive/2026basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./Half_life_of_Silve.aux)
+{/usr/local/texlive/2026basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./long_min.png>]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 80.
+ (/usr/local/texlive/2026basic/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [2<./short_max.png>] [3<./short_min.png>] (./Half_life_of_Silve.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -557,19 +482,19 @@ Package rerunfilecheck Info: File `Half_life_of_Silve.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 11380 strings out of 476076
+ 11419 strings out of 476076
  100000,662416 words of node,token memory allocated
- 2347 words of node memory still in use:
-   17 hlist, 6 vlist, 6 rule, 18 disc, 2 local_par, 35 glue, 12 kern, 6 penalty, 149 glyph, 51 attribute, 55 glue_spec, 26 attribute_list, 2 write, 1 pdf_dest nodes
-   avail lists: 2:487,3:176,4:6,5:156,6:38,7:2698,8:47,9:355,10:6,11:204
- 33630 multiletter control sequences out of 65536+600000
+ 2166 words of node memory still in use:
+   19 hlist, 4 vlist, 3 rule, 18 disc, 2 local_par, 31 glue, 10 kern, 6 penalty, 132 glyph, 49 attribute, 55 glue_spec, 25 attribute_list, 2 write, 1 pdf_dest, 1 pdf_setmatrix, 1 pdf_save, 1 pdf_restore nodes
+   avail lists: 2:596,3:178,4:6,5:167,6:37,7:2743,8:47,9:391,10:6,11:226
+ 33656 multiletter control sequences out of 65536+600000
  38 fonts using 2295055 bytes
- 72i,9n,75p,270b,361s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,8n,75p,277b,373s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/local/texlive/2026basic/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/lm/lmr12.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/lm/lmr17.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texlive/2026basic/texmf-dist/fonts/type1/public/lm/lmtt10.pfb>
-Output written on Half_life_of_Silve.pdf (1 page, 184146 bytes).
+Output written on Half_life_of_Silve.pdf (3 pages, 444005 bytes).
 
-PDF statistics: 70 PDF objects out of 1000 (max. 8388607)
- 54 compressed objects within 1 object stream
- 7 named destinations out of 1000 (max. 1048576)
+PDF statistics: 86 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 1048576)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
